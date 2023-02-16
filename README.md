@@ -5,18 +5,17 @@
 ### 🧑‍💻 Ryutsuki
 
 - Parsing les informations générales des recettes (sans les ingrédients/étapes)
-- Réalisation des méthodes demandées aux questions 4 à 16
 - Design de l'interface graphique
 - Intégration du choix d'interface (GUI ou textuel)
-- Réalisation du compte-rendu/readme
+- Création des méthodes.
+- Création des exécutables
 
-### 👩‍💻 Chips
+### 👩‍💻 Lilou
 
 - Parsing des ingrédients et les étapes
-- Réalisation des méthodes 17 à 22
 - Réalisation de l'interface textuelle
-- Test de toutes les méthodes
-- Création des exécutables
+- Test de toutes les méthodes et correction
+
 
 ## 💻 <span style="color:#f1a8a9">Déroulé du projet</span>
 
@@ -40,3 +39,4 @@ Pour rendre ce projet plus facile d'utilisation, nous avons fait le choix de cr�
 
 - Le fichier recipes.xml a besoin d'être au même niveau que le fichier .exe pour être lu
 - L'interface a été réalisée avec JavaFX
+- Remerciement à Lilou pour ce magnifique Read.me
